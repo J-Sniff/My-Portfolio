@@ -1,0 +1,19 @@
+body {
+    padding: 25px;
+    background-color: white;
+    color: black;
+    font-size: 25px;
+    font-style: oblique;
+}
+.dark-mode {
+    background-color: black;
+    color: goldenrod;
+}
+button {
+    background-color: goldenrod;
+    position: absolute;
+    bottom: 90%;
+    right: 90%;
+    font-style: oblique;
+    
+}
