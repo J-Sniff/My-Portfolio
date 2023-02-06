@@ -26,3 +26,13 @@ button {
     font-family: 'Triforce';
     font-size: 65%;    
 }
+.navbar {
+    position:absolute;
+    border: red;
+}
+.myImg {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
