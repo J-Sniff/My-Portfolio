@@ -1,9 +1,18 @@
+@font-face {
+    font-family: 'Triforce' ;
+    src: url(fonts/Triforce.ttf);
+}
+
+h1 {
+    font-size: 250%;
+}
+
 body {
     padding: 25px;
     background-color: white;
     color: black;
     font-size: 25px;
-    font-style: oblique;
+    font-family: 'Triforce';
 }
 .dark-mode {
     background-color: black;
@@ -14,6 +23,6 @@ button {
     position: absolute;
     bottom: 90%;
     right: 90%;
-    font-style: oblique;
-    
+    font-family: 'Triforce';
+    font-size: 65%;    
 }
